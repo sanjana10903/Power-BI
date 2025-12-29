@@ -1,0 +1,12 @@
+# Power BI Dashboard
+
+## Description
+Interactive Power BI dashboard created to analyze data and visualize key business metrics.
+
+## Tools Used
+- Power BI
+- Excel / CSV dataset
+- DAX (basic calculations)
+
+## Dashboard Preview
+![Power BI Dashboard](ECommerce_dashboard.png)
